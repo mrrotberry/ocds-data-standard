@@ -1,5 +1,5 @@
 {
-  "name": "xarid.uz",
+  "name": "ocds-data-standard",
   "palette": {
     "lightest": "#fff",
     "light": "#ececec",
@@ -11,8 +11,8 @@
     "negative-light": "#fbab95"
   },
   "repo": {
-    "owner": "uStudioCompany",
-    "name": "xarid.uz",
+    "owner": "mrrotberry",
+    "name": "ocds-data-standard",
     "branch": "main",
     "docsFolder": "docs"
   }
